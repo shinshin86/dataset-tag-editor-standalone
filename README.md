@@ -156,3 +156,11 @@ Input path in "Directory to save temporary files" and check "Force using tempora
   2. Change the 3rd line to `set COMMANDLINE_ARGS="--force-install-torch cu118"` (you can choose from `cu117`, `cu118` or `cpu`)
   3. Run `launch_user.bat`
   4. (Remove the command line argument)
+
+## This is my custom branch
+
+start command
+
+```
+start.bat
+```
